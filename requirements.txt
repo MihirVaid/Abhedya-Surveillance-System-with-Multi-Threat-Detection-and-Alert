@@ -5,5 +5,5 @@ python-telegram-bot
 Shapely
 streamlit
 ultralytics
-
+lap
 
