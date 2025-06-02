@@ -1,6 +1,5 @@
 numpy
-opencv_python
-Pillow
+opencv-python
 Pillow
 python-telegram-bot
 Shapely
